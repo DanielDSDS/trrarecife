@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="796">
+	<defs>
+		<clipPath id="clip_0">
+			<rect x="0.89849854" y="-283.979" width="1918.656" height="1079.244" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<path fill="rgb(139,200,207)" stroke="none" transform="matrix(0.9993 0 0 0.9993 0.898499 0.226364)" d="M0 18.5956C0 18.5956 345.5 82.0956 1055 18.5956C1764.5 -44.9044 1920 74.5956 1920 74.5956L1920 795.596L0 795.596L0 18.5956Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_1">
+			<rect x="0.89849854" y="-283.979" width="1918.656" height="1079.244" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_1)">
+		<path fill="rgb(31,79,80)" stroke="none" transform="matrix(0.9993 0 0 0.9993 0.898499 0.226364)" d="M0 18.5956C0 18.5956 345.5 82.0956 1055 18.5956C1764.5 -44.9044 1920 74.5956 1920 74.5956L1920 795.596L0 795.596L0 18.5956Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_2">
+			<rect x="0.89849854" y="-283.979" width="1918.656" height="1079.244" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_2)">
+		<path fill="rgb(198,231,240)" stroke="none" transform="matrix(0.9993 0 0 0.9993 0.898499 0.226364)" d="M0 18.5956C0 18.5956 345.5 82.0956 1055 18.5956C1764.5 -44.9044 1920 74.5956 1920 74.5956L1920 795.596L0 795.596L0 18.5956Z"/>
+	</g>
+
+</svg>

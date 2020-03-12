@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "Kollektif";
+    src: url("fonts/Kollektif.ttf");
+}
+
+@font-face {
+    font-family: "Granaina";
+    src: url("fonts/Granaina-Limpia-Font.ttf");
+}
+
+.granaina{
+    font-family: Granaina;
+}
+
+.brand {
+    font-family: Granaina;
+    margin-top: -30px;
+    font-size: 38px;
+}
+
+.lil-brand{
+    font-family: Kollektif;
+    font-size: 15px;
+    margin-bottom: -50px;
+}
+
+.switchup{
+    font-family: Granaina;
+}
+
+.marino{
+    color: #1F4F50;
+}
+
+.marino-claro{
+    color: #C6E7F0;
+}
+
+.intro-btn{
+    background-color: #C6E7F0;
+    border-color: #C6E7F0;
+}
+
+.subtitle {
+    font-family: Kollektif;
+}
+
+.header-bg{
+    background: rgb(0,61,64);
+    background: linear-gradient(180deg, rgba(0,61,64,1) 0%, rgba(31,79,80,0.6839110644257703) 74%, rgba(198,231,240,0.5130427170868348) 100%);
+}
+
+.bg-img{
+        
+    background-image: url('../res/reef.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1500px;
+}
+
+.generic-bg{
+    background: rgb(169,199,195);
+    background: linear-gradient(180deg, rgba(169,199,195,0.9528186274509804) 7%, rgba(139,200,207,0.639093137254902) 58%, rgba(198,231,240,0.5102415966386555) 84%);
+}
+
+
+.main-bg {
+    background: url('../svg/div-bg.svg') no-repeat;
+    background-size: 2760px;
+    background-color: linear-gradient(180deg, rgba(169,199,195,0.9528186274509804) 7%, rgba(139,200,207,0.639093137254902) 58%, rgba(198,231,240,0.5102415966386555) 84%);
+    padding-top: 320px;
+    margin-top:-335px;
+}
+
+/*
+    Traducciones : Kollektif
+    Trarrecife : granaina
+    #003D40
+    #1F4F50
+    #8BC8CF
+    #C6E7F0
+    #A9C7C3
+*/
